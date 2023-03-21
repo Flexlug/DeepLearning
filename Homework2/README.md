@@ -1,3 +1,5 @@
+"<a href=\"https://githubtocolab.com/Flexlug/DeepLearning/blob/main/Homework2/Homework2.ipynb" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+
 # Практическая работа №2
 1. Рассмотрите пример построения глубокой нейронной сети для решения задачи прогнозирования цен на недвижимость в городе Бостон (регрессия):
 - https://github.com/rodrigobressan/keras_boston_housing_price
