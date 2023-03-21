@@ -1,4 +1,4 @@
-"<a href=\"https://githubtocolab.com/Flexlug/DeepLearning/blob/main/Homework1/Homework1.ipynb" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/Flexlug/DeepLearning/blob/main/Homework1/Homework1.ipynb)
 
 # Практическая работа №1 (Homework1)
 ## Задание №1
