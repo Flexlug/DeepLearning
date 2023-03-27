@@ -1,1 +1,8 @@
-*.h5
+# Модель из Homework 3
+h3model.h5
+
+# Модель из Homework 3, использующаяся в Homework 4
+homework3_model.h5
+
+# Папки с dataset-ами
+*dataset/
