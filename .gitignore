@@ -14,3 +14,7 @@ Homework3/touhou_tests/flandre_scarlet/10.jpg
 
 # Jupyter Checkpoints
 .ipynb_checkpoints/
+Homework5/ResNet50V2_23.h5
+Homework5/ResNet50V2_23_labels
+Homework5/ResNet50V2_24.h5
+Homework5/ResNet50V2_24_labels
