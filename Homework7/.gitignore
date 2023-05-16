@@ -2,4 +2,5 @@
 /data*
 /Semantic*
 /tmp
+/landcover
 *.h5
