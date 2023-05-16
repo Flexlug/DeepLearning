@@ -1,3 +1,4 @@
 # Практическая работа №7 -  Использование автоэнкодера для решения задач семантической сегментации
 - Часть 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/Flexlug/DeepLearning/blob/main/Homework7/Homework7Part1.ipynb)
 - Часть 2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/Flexlug/DeepLearning/blob/main/Homework7/Homework7Part2.ipynb)
+- Часть 3: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/Flexlug/DeepLearning/blob/main/Homework7/Homework7Part3.ipynb)
