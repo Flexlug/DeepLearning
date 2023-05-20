@@ -1,0 +1,8 @@
+/attempt0_mnist
+/attempt0_rus
+/attempt1_rus
+/gen_images
+/other
+/model
+*.h5
+*.npy
