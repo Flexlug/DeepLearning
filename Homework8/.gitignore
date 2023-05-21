@@ -1,8 +1,10 @@
-/attempt0_mnist
-/attempt0_rus
-/attempt1_rus
+/att*
 /gen_images
 /other
 /model
+/gan
+/generator
+/discriminator
 *.h5
 *.npy
+HMCC similar merged.csv
