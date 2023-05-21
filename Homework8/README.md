@@ -1,0 +1,2 @@
+# Практическая работа №8 - Генеративно-состязательная сеть (GAN)
+- Часть 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/Flexlug/DeepLearning/blob/main/Homework8/Homework8Part1.ipynb)
