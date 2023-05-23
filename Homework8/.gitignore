@@ -5,6 +5,7 @@
 /gan
 /generator
 /discriminator
+/not_mine
 *.h5
 *.npy
 HMCC similar merged.csv
